@@ -1,8 +1,17 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a ReactJS-powered Docs App project that I built while learning ReactJS. The idea for this project came from a YouTube tutorial, and I implemented it step by step to understand how React works in real-world applications.
 
-Currently, two official plugins are available:
+🌟 What I Learned:
+✅ ReactJS Basics – Understanding component-based development.
+✅ State Management – Handling UI updates efficiently.
+✅ Code Structure – Writing clean and organized React code.
+✅ User Experience – Improving the interface for better usability.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠 Technologies Used:
+ReactJS
+
+JavaScript (ES6+)
+
+CSS
+
+This project helped me gain hands-on experience in React, and I plan to explore more advanced concepts in the future! 🚀
